@@ -18,6 +18,7 @@ Identifiez ces signaux et déduisez-en l'environnement qui vous entoure
 |7| 2400 | ![7](./7-2400Mhz.png)|
 |8| 466 | ![8](./8-466Mhz.png)|
 |9| 433 | ![9](./9-433Mhz.png)|
+|10| 433 | ![10](./10-433Mhz.png)
 
 ## Tips
 
